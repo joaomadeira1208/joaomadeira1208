@@ -21,11 +21,11 @@
 
 ###
 
-<p align="left">Trabalho Interdisciplinar I - Front-End</p>
+<p align="left"><a href="https://github.com/joaomadeira1208/ti-1-pmg-cc-m-20231-tiaw-financas-finmanage">Trabalho Interdisciplinar I - Front-End</p>
 
 ###
 
-<p align="left">Trabalho Interdisciplinar II - Back-End</p>
+<p align="left"><a href="https://github.com/guilhermedebrites/Ti-II">Trabalho Interdisciplinar II - Back-End</p>
 
 ###
 
