@@ -1,4 +1,4 @@
-<h1 align="left">João Madeira Freitas - Computer Science Student</h1>
+<h1 align="left">João Madeira Freitas - Computer Science Student🎓</h1>
 
 ###
 
@@ -9,15 +9,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me👨‍💻</h2>
 
 ###
 
-<p align="left">I am a fourth-semester Computer Science student, with an expected graduation date in late 2026. I have a strong passion for Artificial Intelligence and Software Development. I thrive on solving complex problems and creating innovative solutions.</p>
+<p align="left">Hello, I'm a fourth-semester Computer Science student, with an expected graduation date in late 2026. I have a strong passion for Artificial Intelligence and Software Development. I thrive on solving complex problems and creating innovative solutions.💻</p>
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Projects🔗</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">Certifications</h2>
+<h2 align="left">Certifications🏅</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contact📧</h2>
 
 ###
 
